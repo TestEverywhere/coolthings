@@ -5,7 +5,7 @@ import org.testng.junit.*;
 
 public class Test_auto {
 
-	
+	Test
 	
 	// TODO Auto-generated method stub
 
