@@ -7,6 +7,7 @@ public class Test_auto {
 
 	System.out.println("Connect to Git"); 
 	
+	//Git integration test for easy working 
 	}
 	
 
